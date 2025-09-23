@@ -1,3 +1,5 @@
+#Basic program asking for name and age
+
 print ('hello!')
 print ('What is your name?')
 Name= input()
